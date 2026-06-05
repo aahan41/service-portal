@@ -1,0 +1,132 @@
+Create a modern manual service portal with a clean professional dashboard design.
+
+Important:
+
+* I do not have any API.
+* Build it as a manual admin-based portal.
+* Admin will manually approve, reject, update status, and manage services.
+* Make the design premium, clean, responsive, and easy to use.
+* Use dark + modern dashboard style.
+
+Main Features:
+
+* User Login / Signup
+* User Dashboard
+* Admin Dashboard
+* Wallet Balance System
+* Add Money Request
+* My Applications Page
+* Application Status: Pending, Processing, Success, Rejected
+* Service Search
+* Category Filter
+* Service Cards with icon/image, price, Apply button, and Details/List button
+* Application form for each service
+* Admin can add/edit/delete services
+* Admin can change service price
+* Admin can view all applications
+* Admin can update application status
+* Admin can manage users and wallet balance
+* Admin can upload result file or add result text
+* User can download/view result after success
+* Notifications for users
+* Mobile responsive design
+
+Service Categories and Services:
+
+Aadhaar Services:
+
+* Aadhaar Manual
+* Aadhaar OTP eKYC
+* UID to Name
+* Aadhaar Intelligence
+* Check Aadhaar Validity
+* Generate EID to PDF
+* Name Mobile to PDF
+
+PAN Card Services:
+
+* Mobile to PAN
+* Lost PAN Card No Find
+* PAN No to Aadhaar No
+* PAN Card Detail Find
+* PAN Card Manual Print
+
+Voter Services:
+
+* Voter Mobile Link
+* Voter Card PDF Org
+* Voter Advance Print
+
+Driving Licence Services:
+
+* Driving Licence PDF
+* Learning Licence PDF
+* Learning Licence Exam
+* LL Exam Pass
+* DL Card PDF
+* DL Mobile No Find
+
+Vehicle Services:
+
+* RC Owner Book
+* RC Card PDF
+* Vehicle Challan
+* PUC Certificate
+
+Ration Card Services:
+
+* UP Ration to UID
+* Ration Card PDF
+* Ration to Aadhaar
+* Ration to Aadhaar All State
+* Ration PDF by UID
+
+Certificate Services:
+
+* UP Birth Original
+* Bihar Caste / Income / Residence
+
+Banking & Payment Services:
+
+* IFSC Details
+* NPCI Status Check
+
+Labour Services:
+
+* eShram Card PDF
+
+Lookup & Intelligence Services:
+
+* Universal Lookup
+* Mobile Intelligence
+
+Design Requirements:
+
+* Modern SaaS-style dashboard
+* Clean sidebar with categories
+* Top navbar with user profile and wallet balance
+* Beautiful service cards
+* Smooth hover effects
+* Clear Apply buttons
+* Status badges with different colors
+* Dark theme with professional accent colors
+* Fully responsive for mobile, tablet, and desktop
+* Keep UI simple but premium
+
+Admin Panel Requirements:
+
+* Dashboard stats: total users, total applications, pending applications, completed applications, wallet requests, total revenue
+* Manage services
+* Manage categories
+* Manage applications
+* Manage users
+* Manage wallet/add money requests
+* Update status manually
+* Upload result file manually
+* Add admin notes
+* Export applications list if possible
+
+Do not use external API.
+Do not create fake government API integration.
+Everything should work through manual admin approval and database storage.
+Make the portal production-ready and clean.
